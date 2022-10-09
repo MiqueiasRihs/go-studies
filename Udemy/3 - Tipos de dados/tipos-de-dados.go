@@ -10,6 +10,8 @@ import (
 	A diferença entre eles é o tamanho que cada um suporta, onde int8
 	armazena numeros menores e int64 armazena numeros muito maiores.
 	Acontece semelhante tambem com float, onde temos o float32 e float64
+
+	https://dev.to/linivecristine/uint-vs-int-qual-a-diferenca-em-go-3j1g
 */
 
 /*
