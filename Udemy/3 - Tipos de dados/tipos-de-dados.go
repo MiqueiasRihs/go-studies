@@ -11,13 +11,14 @@ import (
 	armazena numeros menores e int64 armazena numeros muito maiores.
 	Acontece semelhante tambem com float, onde temos o float32 e float64
 
-	https://dev.to/linivecristine/uint-vs-int-qual-a-diferenca-em-go-3j1g
 */
 
 /*
 	* uint - unsigned int *
 	Unsigned significa sem sinal, não assinalado. Então é exatamente isso
 	que ele é, um int que desconsidera o sinal.
+
+	https://dev.to/linivecristine/uint-vs-int-qual-a-diferenca-em-go-3j1g
 */
 
 func main() {
